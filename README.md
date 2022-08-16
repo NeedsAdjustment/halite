@@ -1,0 +1,2 @@
+# halite
+Experimental notes app
